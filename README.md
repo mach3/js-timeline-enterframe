@@ -19,7 +19,7 @@ but "EnterFame" is simpler.
 	});
 	tl.start();
 
-You cant write also like this.
+You can write also like this.
 
 	var tl = new Timeline({ fps:60 }); // Arguments can be object
 	tl.bind( tl.EVENT_ENTER_FRAME, function(){ // This has the constant for "enterFrame"
